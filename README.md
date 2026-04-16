@@ -1,2 +1,9 @@
-# text-stats-cli-92
-A simple text stats project
+# Text Stats
+
+A simple text stats project.
+\n
+## Getting Started
+
+```bash
+python text.py
+```
